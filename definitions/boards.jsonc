@@ -1086,7 +1086,7 @@
     "usb": {
       "vid": "0403",
       "pid": "6010",
-      "product-regex": "^Basys3*"
+      "product-regex": "^Digilent USB Device*"
     }
   }
 }
