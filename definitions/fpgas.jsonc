@@ -811,7 +811,7 @@
       "family": "artix7",
       "yosys-arch": "xc7",
       "package": "xc7a35tcpg236",
-      "speed": "-1"
+      "speed": "1"
     }
   }
 }
